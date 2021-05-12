@@ -7,6 +7,14 @@
 
 2021/03/26 更新HW3、HW4课件、代码、范例；release页发布HW1-HW4数据；
 
+2021/04/01 更新选修内容To Learn More，基本是李老师今年不打算讲而以前讲过的知识点(旧视频)；
+
+2021/04/09 更新GAN及HW05；
+
+2021/04/16 更新Self-Supervised Learning及HW06 
+
+2021/04/30/ 更新Explainable AI&Adversarial Attack 及 HW07&HW08
+
 #------------------------------------------------------------------#
 
 B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
@@ -16,6 +24,8 @@ B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
 不定期分享读研干货，提供参与大厂讲座学知识和兼职的机会，点赞关注一起进步：https://space.bilibili.com/46880349
 
 人工智能技术探讨群：78174903(目前满了)、571218304
+
+![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Lecture%20Schedule.jpg)
 
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Assignment%20Schedule.png)
 
